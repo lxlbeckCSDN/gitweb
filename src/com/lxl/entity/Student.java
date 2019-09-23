@@ -11,6 +11,10 @@ public class Student {
 	private int stuIdl;
 	private String name;
 	
+	public static void main(String[] args) {
+		
+	}
+	
 	public void say(){
 		System.out.println("呵呵");
 	}
